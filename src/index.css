@@ -1,0 +1,44 @@
+ div.post{
+  margin: 10px;
+  border-radius: 15px;
+  padding:5px;
+  background-color: rgb(255, 246, 221);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  display: flex;
+  flex-direction: column;
+  
+}
+.date {
+  color: rgb(131, 123, 123)
+}
+.postHead{
+ display: flex;
+ gap:1rem;
+}
+.post h1{
+  margin: 0%;
+  padding: 0%;
+}
+.postFooter{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px 0;
+  
+}
+.profile{
+  border-radius: 25px;
+}
+.button{
+  color: rgb(131, 123, 123);
+  border-radius: 5px;
+  border: 1px solid gray;
+  flex-grow: 1;
+  text-align: center;
+
+  padding: 10px 0;
+
+}
+.postImg{
+  border-radius: 5px;
+  width: 100%;
+}

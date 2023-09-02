@@ -1,0 +1,12 @@
+npx create-react-app hello
+
+npm start
+
+npm run built
+firebase init 
+hosting
+existing project {my app name}
+built
+y
+y
+firebase diploye
